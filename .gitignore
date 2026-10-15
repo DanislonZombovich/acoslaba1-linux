@@ -1,0 +1,4 @@
+test_env/
+backup/
+*.tar.gz
+*.tar.lzma
